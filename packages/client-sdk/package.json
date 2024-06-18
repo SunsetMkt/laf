@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/labring/laf#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "database-ql": "^1.0.0-beta.12"
   },
   "devDependencies": {
@@ -37,7 +37,7 @@
     "mongodb": "^3.6.3",
     "ts-loader": "^7.0.5",
     "typescript": "^3.6.2",
-    "webpack": "^4.43.0",
+    "webpack": "^5.92.0",
     "webpack-cli": "^4.9.2"
   },
   "lint-staged": {
